@@ -5,7 +5,6 @@
 ![Security](https://img.shields.io/badge/Security-DNS%20C2%20Demo-red)
 ![Presented at BootCon](https://img.shields.io/badge/Presented-BootCon-blueviolet)
 ![Repo Size](https://img.shields.io/github/repo-size/MarcellusHarris/automated-port-scanner)
-![Last Commit](https://img.shields.io/github/last-commit/MarcellusHarris/automated-port-scanner)
 
 This project presents a Python-based port scanning tool designed to automate the discovery of open ports on a target system. It uses the `nmap` Python module to identify active services and analyze potential vulnerabilities. This project was presented at BootCon in front of an audience of over 300 attendees.
 
