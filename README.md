@@ -26,9 +26,6 @@ pip install python-nmap
 ## Script Output
 
 ![Demo Screenshot](screenshot.png)
-
----
-
 ## Vulnerability Assessment: dnscat2
 
 Demonstrated how **dnscat2** can be used to establish covert C2 channels via DNS traffic.
