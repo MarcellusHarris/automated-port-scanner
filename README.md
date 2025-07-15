@@ -46,3 +46,7 @@ Block abnormal DNS requests at the firewall level
 
 Use network segmentation and access controls
 
+## 📸 Script Output<img width="2000" height="1125" alt="screenshot" src="https://github.com/user-attachments/assets/89fd69d4-3e5f-4088-8f15-58d8ca88370a" />
+
+
+![Demo Screenshot](screenshot.png)
