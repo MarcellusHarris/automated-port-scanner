@@ -1,5 +1,6 @@
 # Automated Port Scanner & Vulnerability Assessment
-
+**Live Demo:**  
+[https://marcellusharris.github.io/automated-port-scanner/](https://marcellusharris.github.io/automated-port-scanner/)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Security](https://img.shields.io/badge/Security-DNS%20C2%20Demo-red)
