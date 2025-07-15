@@ -1,24 +1,7 @@
 __pycache__/
-*.pyc
-.env
-# Byte-compiled files
-__pycache__/
 *.py[cod]
-
-# Virtual environment
-venv/
 env/
-
-# Logs and temp files
+venv/
 *.log
-*.tmp
-
-# macOS system file
 .DS_Store
-
-# VSCode workspace
 .vscode/
-
-# Python environment files
-*.env
-*.egg-info/
