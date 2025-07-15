@@ -44,3 +44,6 @@ pip install python-nmap
 - Use IDS/IPS (e.g., Snort) to monitor DNS traffic  
 - Block abnormal DNS requests at the firewall level  
 - Use network segmentation and access controls  
+## 📸 Script Output
+
+![Demo Screenshot](screenshot.png)
