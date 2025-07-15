@@ -25,4 +25,4 @@ pip install python-nmap
 - Use network segmentation and access controls  
 ## 📸 Script Output
 
-[Demo Screenshot](screenshot.png)
+![Demo Screenshot](screenshot.png)
