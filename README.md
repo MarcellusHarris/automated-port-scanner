@@ -23,30 +23,24 @@ pip install python-nmap
 
 ---
 
-Vulnerability Assessment: dnscat2
-Demonstrated how dnscat2 can be used to establish covert C2 channels via DNS traffic.
+##  Vulnerability Assessment: dnscat2
 
-Used a demo to show how unauthorized access could be obtained over port 53.
-
-Discussed how attackers could use this technique to extract data or control systems.
+- Demonstrated how **dnscat2** can be used to establish covert C2 channels via DNS traffic.
+- Used a demo to show how unauthorized access could be obtained over port 53.
+- Discussed how attackers could use this technique to extract data or control systems.
 
 ---
 
-Potential Threats
-Remote control over systems (e.g., PlayStation 5)
+##  Potential Threats
 
-Theft of sensitive personal information (login credentials, payment data)
+- Remote control over systems (e.g., PlayStation 5)  
+- Theft of sensitive personal information (login credentials, payment data)  
+- System crashes or permanent damage due to exploitation  
 
-System crashes or permanent damage due to exploitation
+---
 
-Mitigations
-Use IDS/IPS (e.g., Snort) to monitor DNS traffic
+##  Mitigations
 
-Block abnormal DNS requests at the firewall level
-
-Use network segmentation and access controls
-
-## 📸 Script Output<img width="2000" height="1125" alt="screenshot" src="https://github.com/user-attachments/assets/89fd69d4-3e5f-4088-8f15-58d8ca88370a" />
-
-
-![Demo Screenshot](screenshot.png)
+- Use IDS/IPS (e.g., Snort) to monitor DNS traffic  
+- Block abnormal DNS requests at the firewall level  
+- Use network segmentation and access controls  
