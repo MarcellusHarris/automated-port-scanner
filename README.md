@@ -1,5 +1,10 @@
 # Automated Port Scanner & Vulnerability Assessment
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Security](https://img.shields.io/badge/Security-DNS%20C2%20Demo-red)
+![Presented at BootCon](https://img.shields.io/badge/Presented-BootCon-blueviolet)
+
 This project presents a Python-based port scanning tool designed to automate the discovery of open ports on a target system. It uses the `nmap` Python module to identify active services and analyze potential vulnerabilities. This project was presented at BootCon in front of an audience of over 300 attendees.
 
 ---
