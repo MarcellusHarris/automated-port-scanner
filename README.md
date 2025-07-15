@@ -23,6 +23,32 @@ pip install python-nmap
 
 - Block abnormal DNS requests at the firewall level  
 - Use network segmentation and access controls  
-## 📸 Script Output
+## Script Output
 
 ![Demo Screenshot](screenshot.png)
+
+---
+
+## Vulnerability Assessment: dnscat2
+
+Demonstrated how **dnscat2** can be used to establish covert C2 channels via DNS traffic.
+
+Used a live demo to show how unauthorized access could be obtained over port 53.
+
+Discussed how attackers could use this technique to extract data or control systems in stealth.
+
+---
+
+## Potential Threats
+
+- Remote control over systems (e.g., PlayStation 5)  
+- Theft of sensitive personal information (login credentials, payment data)  
+- System crashes or permanent damage due to exploitation  
+
+---
+
+## Mitigations
+
+- Use IDS/IPS (e.g., Snort) to monitor DNS traffic  
+- Block abnormal DNS requests at the firewall level  
+- Use network segmentation and access controls  
