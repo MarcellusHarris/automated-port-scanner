@@ -10,6 +10,17 @@ To develop a Python script that automates the process of scanning open ports and
 
 ---
 
+## Features
+
+- Fast TCP port scanning using `python-nmap`
+-  Integrated basic vulnerability awareness and analysis
+-  Terminal-based interface for quick testing
+-  Covert DNS C2 demo using `dnscat2`
+-  Real-world threat simulation (tested on devices like PlayStation 5)
+-  Defensive insights: IDS, firewalls, and segmentation best practices
+-  Includes screenshot for visual appeal
+
+
 ## Prerequisites
 
 - Python 3.11.4 or later  
