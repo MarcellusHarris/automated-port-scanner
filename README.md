@@ -1,8 +1,7 @@
 # Automated Port Scanner & Vulnerability Assessment
 **Live Demo:**  
 [https://marcellusharris.github.io/automated-port-scanner/](https://marcellusharris.github.io/automated-port-scanner/)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.11-blue)![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Security](https://img.shields.io/badge/Security-DNS%20C2%20Demo-red)
 ![Presented at BootCon](https://img.shields.io/badge/Presented-BootCon-blueviolet)
 
@@ -34,16 +33,14 @@ To develop a Python script that automates the process of scanning open ports and
 - Target IP address (e.g., local device like a PlayStation 5)
 
 Install the required library using:
-
 ```bash
 pip install python-nmap
 
 - Block abnormal DNS requests at the firewall level  
-- Use network segmentation and access controls  
-## Script Output
+- Use network segmentation and access control
 
 ![Demo Screenshot](screenshot.png)
-## Vulnerability Assessment: dnscat2
+## Vulnerabilxity Assessment: dnscat2
 
 Demonstrated how **dnscat2** can be used to establish covert C2 channels via DNS traffic.
 
@@ -66,3 +63,4 @@ Discussed how attackers could use this technique to extract data or control syst
 - Use IDS/IPS (e.g., Snort) to monitor DNS traffic  
 - Block abnormal DNS requests at the firewall level  
 - Use network segmentation and access controls  
+ 
