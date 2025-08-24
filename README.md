@@ -1,4 +1,6 @@
 # Automated Port Scanner & Vulnerability Assessment
+A Python-based port scanning tool with vulnerability assessment and customizable output options.
+
 
 **Live Demo:** [View the demo here](https://marcellusharris.github.io/automated-port-scanner/)
 
@@ -77,3 +79,28 @@ After completing a port scan, the tool analyzes the service banners and `nmap` s
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
+---
+
+## Architecture (Proposed)
+
+```
++------------------+   +-----------+   +--------------------+
+| Input Target(s)  +---> Nmap Scan +---> Scan Result Parser |
++------------------+   +-----------+   +--------------------+
+                                    |
+                                    v
+                          Structured Output (JSON/CSV)
+```
+
+---
+
+## Roadmap
+
+- [ ] Add `--json` output flag for structured results.
+- [ ] Implement `--dry-run` mode to validate targets without scanning.
+- [ ] Publish CLI reference and include `--help` output in this README.
+- [ ] Create a mini architecture diagram to illustrate the scanning workflow.
+- [ ] Add unit tests and a GitHub Action for continuous integration.
+- [ ] Include a short demo GIF showing a scan and results.
